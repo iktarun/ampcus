@@ -1,6 +1,6 @@
 # Steps to run the program
 
-## Depedencies
+## Dependencies
 
 1. npm i readline-sync
 
@@ -15,3 +15,13 @@
 2.  node .\src\fairCalculator.js
 3.  Enter the source and desination
 4.  It will calcualte the result and then will return the response
+
+## Example: node .\src\fairCalculator.js
+
+Input
+Please Enter source: 1
+Please Enter destination: 3
+
+Output
+H.S.R. Layout > Forum
+Total Fair is: 19
