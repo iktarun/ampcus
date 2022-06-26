@@ -18,10 +18,11 @@
 
 ## Example: node .\src\fairCalculator.js
 
-Input
-Please Enter source: 1
-Please Enter destination: 3
+- Input
 
-Output
-H.S.R. Layout > Forum
-Total Fair is: 19
+  1. Please Enter source: 1
+  2. Please Enter destination: 3
+
+- Output
+  1. H.S.R. Layout > Forum
+  2. Total Fair is: 19
