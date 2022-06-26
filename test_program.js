@@ -114,6 +114,7 @@ function calculateFair(source, destination) {
     if (destination < source) {
       throw new Error(errorsConfig.wrongPath);
     }
+    console.log(sourceConfig.baseName, ">", destinationConfig.baseName);
 
     let totalDistance =
       destinationConfig.distanceFromOrigin - sourceConfig.distanceFromOrigin;
@@ -160,4 +161,4 @@ function getFair(source, destination) {
   }
 }
 
-getFair(7, 12);
+getFair(1, 10);

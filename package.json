@@ -1,0 +1,23 @@
+{
+  "name": "ampcus",
+  "version": "1.0.0",
+  "description": "1. npm i readline-sync",
+  "main": "test_program.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iktarun/ampcus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iktarun/ampcus/issues"
+  },
+  "homepage": "https://github.com/iktarun/ampcus#readme"
+}
